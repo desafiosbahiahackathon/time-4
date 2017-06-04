@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MariaVisita</string>
+    <string name="title_women">Mulheres</string>
+    <string name="title_visit">Visitas</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_activity_attended_record">Cadastro da mulher</string>
+
+    <string-array name="risk_levels">
+        <item>Preto</item>
+        <item>Vermelho</item>
+        <item>Amarelo</item>
+        <item>Verde</item>
+        <item>Branca</item>
+    </string-array>
+
+    <string-array name="risk_levels2">
+        GR
+    </string-array>
+
+    <string-array name="visit_status">
+        <item>NEC</item>
+        <item>AL</item>
+        <item>ENL</item>
+        <item>RC</item>
+        <item>CT</item>
+    </string-array>
+
+    <string-array name="guarnicao">
+        <item>123</item>
+        <item>456</item>
+        <item>789</item>
+        <item>129</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>Feira de Santana</item>
+        <item>Juazeiro</item>
+        <item>Paulo Afonso</item>
+        <item>Salvador</item>
+        <item>Serrinha</item>
+    </string-array>
+
+    <string name="title_activity_visit_record">Registro da visita</string>
+    <string name="title_activity_maps">Mapa de visitas</string>
+    <string name="title_activity_attended">Cadastro de mulheres</string>
+
+</resources>
